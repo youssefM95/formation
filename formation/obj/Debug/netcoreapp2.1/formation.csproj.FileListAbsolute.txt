@@ -1,0 +1,16 @@
+C:\Users\youssef\source\repos\formation\formation\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\youssef\source\repos\formation\formation\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\youssef\source\repos\formation\formation\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\youssef\source\repos\formation\formation\bin\Debug\netcoreapp2.1\formation.deps.json
+C:\Users\youssef\source\repos\formation\formation\bin\Debug\netcoreapp2.1\formation.runtimeconfig.json
+C:\Users\youssef\source\repos\formation\formation\bin\Debug\netcoreapp2.1\formation.runtimeconfig.dev.json
+C:\Users\youssef\source\repos\formation\formation\bin\Debug\netcoreapp2.1\formation.dll
+C:\Users\youssef\source\repos\formation\formation\bin\Debug\netcoreapp2.1\formation.pdb
+C:\Users\youssef\source\repos\formation\formation\obj\Debug\netcoreapp2.1\formation.csprojAssemblyReference.cache
+C:\Users\youssef\source\repos\formation\formation\obj\Debug\netcoreapp2.1\formation.RazorAssemblyInfo.cache
+C:\Users\youssef\source\repos\formation\formation\obj\Debug\netcoreapp2.1\formation.RazorAssemblyInfo.cs
+C:\Users\youssef\source\repos\formation\formation\obj\Debug\netcoreapp2.1\formation.AssemblyInfoInputs.cache
+C:\Users\youssef\source\repos\formation\formation\obj\Debug\netcoreapp2.1\formation.AssemblyInfo.cs
+C:\Users\youssef\source\repos\formation\formation\obj\Debug\netcoreapp2.1\formation.RazorTargetAssemblyInfo.cache
+C:\Users\youssef\source\repos\formation\formation\obj\Debug\netcoreapp2.1\formation.dll
+C:\Users\youssef\source\repos\formation\formation\obj\Debug\netcoreapp2.1\formation.pdb
